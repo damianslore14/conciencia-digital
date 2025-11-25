@@ -74,7 +74,7 @@ body{
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: url("img/img_5.jpg"); /* ← AQUI PONES TU IMG */
+    background-image: url("img/img/img_5.jpg"); /* ← AQUI PONES TU IMG */
     background-size: cover;
     background-position: center center; /* ← ESTO LA CENTRA */
     background-repeat: no-repeat;
@@ -269,6 +269,7 @@ body{
   .hero-media{ order:2 }
   .hero-side-image{ display:flex; gap:12px }
 }
+
 
 
 
